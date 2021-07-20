@@ -1,0 +1,19 @@
+{
+  "name": "usaf-html-checkpoint-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob-wilcox/USAF-html-checkpoint-master.git"
+  },
+  "author": "Jacob Wilcox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacob-wilcox/USAF-html-checkpoint-master/issues"
+  },
+  "homepage": "https://github.com/jacob-wilcox/USAF-html-checkpoint-master#readme"
+}
